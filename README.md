@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=almasaeed2010&url=http://almsaeedstudio.com&title=AdminLTE&language=&tags=github&category=software)
 ------------------------
 
@@ -86,3 +87,9 @@ Image Credits:
 [ajaxload](http://www.ajaxload.info/ "")
 
 [pickaface](http://pickaface.net/ "")
+=======
+tpl-inven
+=========
+
+buat inven, bisa untuk master
+>>>>>>> cbd6530c27a4d92f1317d08029f8427e4b892ac7
